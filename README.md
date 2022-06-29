@@ -4,7 +4,7 @@
 - Defualt depth is 5 layers
 - Made a simple GUI with pygame to play it 
 
-- Install
+Install
 - Download/clone
 - Install pygame 
 - Run
